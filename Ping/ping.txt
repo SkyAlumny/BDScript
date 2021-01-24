@@ -1,0 +1,5 @@
+$nomention
+$title[Pong 🏓]
+$description[Pinging...$editIn[1s;$ping ms]]
+$color[ff000]
+$footer[]
