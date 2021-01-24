@@ -4,7 +4,6 @@ API: https://vacefron.nl/api
 
 Code:
 
-# $nomention
 
 # $nomention
 # $title[Stonk ↗️]
