@@ -1,0 +1,12 @@
+$nomention
+
+$nomention
+$title[Stonk ↗️]
+$color[ff000]
+$image[https://vacefron.nl/api/stonks?user=$userAvatar[$mentioned[1]]]
+
+
+
+
+$argsCheck[>1; mention a User Type: `$getServerVar[prefix]stonk @user`]
+$ignoreTriggerCase
